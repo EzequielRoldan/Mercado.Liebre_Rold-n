@@ -64,7 +64,6 @@ header .buscador{
    
 }
 
-/*barra buscador*/
 header nav{
     font-size: 12px;
 }
@@ -72,7 +71,7 @@ input, button{
     max-width: 100%;
     padding: 9px;
     margin: 10px 5px;
-    border-radius: 5px;
+   ;
     border: none;
 }
 
@@ -137,7 +136,7 @@ h3,
 section.banner img{
     width: 100%;
 }
-/*---site y navarb----*/
+
 .main-navbar{
     display: none;
 }
@@ -153,7 +152,7 @@ section.banner img{
     text-align: center;
     display: inline-block;
 }
-/*---site y navarb----*/
+
 
 
 main{

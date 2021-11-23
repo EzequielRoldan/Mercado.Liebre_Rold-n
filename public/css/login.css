@@ -47,11 +47,6 @@ input, button{
 }
 
 
-/*footer{
-    position: relative;
-    top: 400px;
-}*/
-
 @media(min-width: 361px){
     .para-login{
         display: flex;
