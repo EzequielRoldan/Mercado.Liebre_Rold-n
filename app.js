@@ -18,5 +18,4 @@ app.get('/login', (req,res)=>{
 app.get('/register', (req,res)=>{
     res.sendFile(__dirname + '/views/register.html');
 });
-
 /*process.env.PORT para correrlo en el server" administra heroku un puerto"*/
